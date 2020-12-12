@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{410:function(n,t,e){"use strict";e.r(t);var r=e(44),l=e(55),c=e.n(l),o=e(337),component=Object(r.a)({},(function(){var n=this.$createElement;return(this._self._c||n)("v-container",{attrs:{fluid:"","grid-list-md":""}})}),[],!1,null,null,null);t.default=component.exports;c()(component,{VContainer:o.a})}}]);
